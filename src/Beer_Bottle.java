@@ -10,6 +10,7 @@ public class Beer_Bottle {
 
             System.out.println(beerNum + " " + word + " of beer on the wall");
             System.out.println(beerNum + " " + word + " of beer");
+
             System.out.println("Take one down.");
             System.out.println("pass it around");
             beerNum = beerNum - 1;
