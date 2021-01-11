@@ -25,6 +25,7 @@ public class Box implements Serializable {
             os.close();
         }catch (Exception ex){
             ex.printStackTrace();
+
         }
     }
 
